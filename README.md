@@ -1,10 +1,9 @@
 # Singularity Widgets
 
-Built-in dashboard widgets shipped by the Singularity Desktop shell
-(clock, calculator). App-bound widgets live with their respective apps.
+Built-in dashboard widgets for the Singularity Desktop Environment.
 
-Each builds a shared module installed under `lib/singularity/widgets/`, with a
-`.widget` manifest under `share/singularity/widgets/`.
+Not every widget lives here: extended Singularity apps expose their own
+widgets alongside the app.
 
 ## License
 
