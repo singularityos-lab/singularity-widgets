@@ -1,0 +1,8 @@
+[Widget]
+Id=calc.basic
+ProviderId=dev.sinty.calculator
+Name=Calculator
+IconName=accessories-calculator-symbolic
+Sizes=1x1;1x2;2x2;2x3;3x3
+Module=libsingularity-calculator-widget.so
+ModuleSymbol=singularity_calculator_widget_new

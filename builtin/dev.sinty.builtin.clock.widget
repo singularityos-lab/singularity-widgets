@@ -1,0 +1,8 @@
+[Widget]
+Id=builtin.clock
+ProviderId=dev.sinty.builtin
+Name=Clock
+IconName=preferences-system-time-symbolic
+Sizes=1x1;1x2;2x1;2x2
+Module=libsingularity-builtin-widgets.so
+ModuleSymbol=singularity_widget_clock_new
