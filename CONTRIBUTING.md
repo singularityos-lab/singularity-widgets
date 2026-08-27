@@ -1,5 +1,10 @@
 # Contributing to singularity-widgets
 
+## Issues
+
+Report bugs and request features in the
+[Singularity Desktop tracker](https://github.com/singularityos-lab/singularity-desktop/issues/new/choose).
+
 ## Commit messages
 
 Commits follow Conventional Commits:
