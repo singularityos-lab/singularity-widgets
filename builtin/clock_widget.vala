@@ -132,7 +132,7 @@ namespace SingularityBuiltinWidgets {
 
         public SystemStatsInstance(WidgetSize size) {
             Object(orientation: Orientation.VERTICAL, spacing: 8);
-            add_css_class("overview-sysstats");
+            add_css_class("overview-widget-card");
             margin_start = 16; margin_end = 16;
             margin_top = 12; margin_bottom = 12;
             valign = Align.CENTER;
